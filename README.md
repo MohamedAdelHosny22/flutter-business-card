@@ -6,9 +6,7 @@ A premium, sleek, and modern **Business Card Application** built with **Flutter*
 
 ## 🎨 Design Showcase
 
-| **Main Screen** |
-| :---: |
-| <img src="https://via.placeholder.com/300x600?text=App+Screenshot" width="300" /> |
+| <img src="./assets/img.png" width="300" alt="Main Screen" /> |
 *Note: Add your actual screenshot above to wow your visitors!*
 
 ---
