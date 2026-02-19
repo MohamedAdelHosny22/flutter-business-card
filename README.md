@@ -7,8 +7,6 @@ A premium, sleek, and modern **Business Card Application** built with **Flutter*
 ## 🎨 Design Showcase
 
 | <img src="./assets/img.png" width="300" alt="Main Screen" /> |
-*Note: Add your actual screenshot above to wow your visitors!*
-
 ---
 
 ## 🚀 Features
